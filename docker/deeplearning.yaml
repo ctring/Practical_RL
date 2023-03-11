@@ -29,4 +29,5 @@ dependencies:
     - gym[atari]
     - requests
     - editdistance
+    - stable-baselines3
 prefix: /opt/conda/envs/deeplearning
