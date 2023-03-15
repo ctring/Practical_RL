@@ -15,6 +15,7 @@ dependencies:
   - {pytorch}
   - torchvision
   - opencv
+  - joblib
   - pip:
     - atari-py
     - sklearn
